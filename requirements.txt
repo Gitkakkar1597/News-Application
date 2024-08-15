@@ -1,0 +1,5 @@
+streamlit
+pandas
+newsapi-python
+google-generativeai
+python-dotenv
