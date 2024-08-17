@@ -4,6 +4,7 @@
 
 The **News Recommendation App** is a web application built with Python and Streamlit that provides personalized news recommendations. It utilizes the `News API` to fetch current news articles and `Gemini AI` LLM API to generate recommendations based on the articles. This application offers a clean and interactive interface for users to discover top-rated news articles across various categories.
 
+See Live demo - https://gitkakkar1597-news-recommender.streamlit.app/ 
 ## Features
 
 - **Dynamic News Fetching**: Retrieves the latest news articles based on user-selected categories.
